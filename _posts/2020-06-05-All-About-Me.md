@@ -1,5 +1,5 @@
 ---
-title: Awesome Profile
+title: "Awesome Profile"
 date: 2020-06-05
 ---
 
