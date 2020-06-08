@@ -1,5 +1,5 @@
 
-# Lauren Bartram
+## Lauren Bartram
 
 ![](/images/myImage.jpg)
 
