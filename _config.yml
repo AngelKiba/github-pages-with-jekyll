@@ -6,7 +6,7 @@ description: Here is my awesome image, social media, and brag sheet!
   
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: epic10000 # DO NOT include the @ character, or else the build will fail!
 github_username:  AngelKiba # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
